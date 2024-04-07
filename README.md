@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Este es un repositorio de ejercicio de Henry.
+Esta es una prueba sobre como clonar un repositorio remoto en mi computadora.
